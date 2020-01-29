@@ -3,7 +3,8 @@ module.exports = {
     host: 'localhost',
     username: 'postgres',
     password: '123456',
-    ddefine: {
+    database: 'sqlnode',
+    define: {
         timestamps: true,
         underscored: true,
     },
