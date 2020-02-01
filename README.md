@@ -1,4 +1,5 @@
 # courseNodeJS
 
-Start ded
+Start dev
+
     yarn dev
