@@ -1,9 +1,9 @@
 # 👨‍🎓 courseNodeJS
 
-Install dependencies
+Install dependencies.
     
     yarn install
 
-Start dev
+Start dev.
 
     yarn dev
